@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 ---
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JosimHossain1)  
+
+---
+
+![GitHub metrics](https://metrics.lecoq.io/JosimHossain1)  
