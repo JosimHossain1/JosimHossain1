@@ -1,6 +1,6 @@
-## Hi there 👋, JOSIM IS HERE
 
 
+![Profile views](https://gpvc.arturio.dev/JosimHossain1)   # Hi, <h1 style="text-align:center">Welcome to my Github Profile </br> I'm Josim Hossain</h1>
 ![Front-end web developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/280660160_1667745423609799_8958449606115157679_n.png?stp=dst-png_p180x540&_nc_cat=109&ccb=1-6&_nc_sid=e3f864&_nc_eui2=AeGz13LxGqZSOZK1qBW5lJl2wq9X33PdsyjCr1ffc92zKNRjJHIcYG6TYhB3JgVNrXNRVB8MmmQyZ5ZkdwuWYaHm&_nc_ohc=vMDk6mfN5aMAX_IS2SX&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9Exwtv7YgEBWfbvG0Ndf52t4414PfGLLAlunCG3rPx1A&oe=628342B2)
 
 Front-end web developer || Online Instructor
@@ -13,7 +13,7 @@ Front-end web developer || Online Instructor
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JosimHossain1)  
 
-![Profile views](https://gpvc.arturio.dev/JosimHossain1)  
+
 
 
 
