@@ -1,7 +1,4 @@
 
-
-![Profile views](https://gpvc.arturio.dev/JosimHossain1)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=JosimHossain1)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Front-end web developer || Online Instructor
