@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am Josim Hawladar a front-end developer specializing in React, Next.js, and Tailwind CSS, dedicated to creating efficient, scalable, and user-friendly web solutions that address real-world challenges. Currently, I am studying Computer Science and Technology at Daffodil Polytechnic Institute. I have completed the Web Design Level-3 exam by the National Skill Development Authority (NSDA). I am a visionary individual with a passion for exploring new technologies. A visionary tech enthusiast, always trying to explore and adapt new technologies.
+Josim Hawladar is a front-end developer specializing in React, Next.js, and Tailwind CSS, dedicated to creating efficient, scalable, and user-friendly web solutions that address real-world challenges. Currently, I am studying Computer Science and Technology at Daffodil Polytechnic Institute. I have completed the Web Design Level-3 exam by the National Skill Development Authority (NSDA). I am a visionary individual with a passion for exploring new technologies. A visionary tech enthusiast, always trying to explore and adapt new technologies.
 
 You can call me - Josim
 <br />
