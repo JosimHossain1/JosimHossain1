@@ -19,6 +19,15 @@ I’ve competed in national competitions, stood on stages, and earned awards —
 2. Content and tutorials that break down complex AI & productivity ideas into simple steps.
 3. A community of learners and doers who believe progress comes from focus and purpose.
 
+### 🏆 Achievements
+- 🥉 3rd in Web Tech — Bangabandhu Skill Dev 2023 (National)  
+- 🏅 4th Runners-Up — Daffodil Project Fest 2024  
+- 📜 Top Scorer — NSDA Web Design Level-3
+
+---
+
+### 💬 Ask Me About
+`Web Dev`, `Digital Productivity`, `AI in daily life`, `Tech Content Strategy`
 
 ### 🌐 Find Me on Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hawladar.josim)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josim-hawladar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@deshideveloper93) 
