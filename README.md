@@ -4,28 +4,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JosimHossain1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### About Me
+### 👋 Who is Josim Hawladar?
+I’m Josim — a learner, builder, and dreamer from Bangladesh. I believe technology isn’t just code — it’s a way to make life better, clearer, and more focused.
 
-Josim Hawladar is a front-end developer specializing in React, Next.js, and Tailwind CSS, dedicated to creating efficient, scalable, and user-friendly web solutions that address real-world challenges. Currently, I am studying Computer Science and Technology at Daffodil Polytechnic Institute. I have completed the Web Design Level-3 exam by the National Skill Development Authority (NSDA). I am a visionary individual with a passion for exploring new technologies. A visionary tech enthusiast, always trying to explore and adapt new technologies.
+I’m a Front-End Developer, working with React, Next.js, and Tailwind CSS. But beyond code, I’m passionate about how AI and productivity tools can change the way we work and live, making every minute count.
 
-You can call me - Josim
-<br />
-<br />
+### My Story
+I’m not the fastest or the loudest, but I’m consistent. Every day, I push myself to learn something new, build something better, and help others find clarity in their work and life.
 
-<b>Achievements : </b>
- - 3rd in Web Technology at Bangabandhu Skill Development Competition 2023 by NDSA
- - 4th Runners-Up at Project Fest 2024 by Daffodil Family
+I’ve competed in national competitions, stood on stages, and earned awards — but what drives me most is the desire to grow smarter, work more effectively, and live with focus.
 
+### What I’m Building
+1. Real tools and solutions that help people save time and energy.
+2. Content and tutorials that break down complex AI & productivity ideas into simple steps.
+3. A community of learners and doers who believe progress comes from focus and purpose.
 
-
-
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ... TypeScript and Redux
-- 👯 I’m making web related video on [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@deshideveloper93)
-- 💬 Ask me about __ Front-End web development & Technologies.
----
 
 ### 🌐 Find Me on Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hawladar.josim)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josim-hawladar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@deshideveloper93) 
