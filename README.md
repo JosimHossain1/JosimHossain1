@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JosimHossain1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👋 Who is Josim Hawladar?
-Josim Hawladar is a Full-Stack Developer and Computer Science student, passionate about building scalable web applications and sharing knowledge with the tech community. Alongside my academic journey, I actively mentor students as a programming club mentor at my campus, believing that true mastery comes from teaching and collaboration.
+Josim Hawladar is a Front End Developer and Computer Science student, passionate about building scalable web applications and sharing knowledge with the tech community. Alongside my academic journey, I actively mentor students as a programming club mentor at my campus, believing that true mastery comes from teaching and collaboration.
 
 My development focus spans modern web technologies, including Next.js, React.js, Tailwind CSS, Node.js, Express, PostgreSQL, and MongoDB, with a strong emphasis on clean architecture, performance, and real-world problem solving.
 
