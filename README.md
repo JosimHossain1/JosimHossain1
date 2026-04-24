@@ -4,6 +4,91 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JosimHossain1)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+# 👋 Hi, I'm Josim Hawladar
+
+🚀 Full-Stack Developer | Building scalable web applications that solve real business problems  
+💼 Open to Full-Time Roles & Freelance Projects  
+
+---
+
+## 🧠 About Me
+
+I am a Full-Stack Web Developer and Computer Science student focused on building scalable, high-performance web applications with clean architecture and real-world usability.
+
+I specialize in turning ideas into production-ready digital products using modern technologies.
+
+- 🎯 Focus: Scalable Web Apps & System Design
+- 🧩 Passion: Problem Solving & Clean Architecture
+- 👨‍🏫 Mentor: Programming Club Mentor at Campus
+- 🎥 Content Creator: Sharing practical web development knowledge
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+- Next.js
+- React.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- PostgreSQL
+- Prisma ORM
+- MongoDB (basic)
+
+---
+
+## 🏆 Achievements
+
+- 🥉 3rd Place – Bangabandhu National Skill Competition 2023  
+- 📜 NSDA RPL Web Design – Level 3 Certified  
+- 🏅 4th Runner-Up – Daffodil Project Fest 2024  
+
+---
+
+## 🚀 What I Build
+
+- Scalable Full-Stack Web Applications  
+- SaaS & Dashboard Systems  
+- API-driven Platforms  
+- Business-focused Web Solutions  
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.facebook.com/hawladar.josim">
+  Facebook
+</a> • 
+<a href="https://www.linkedin.com/in/josim-hawladar/">
+  LinkedIn
+</a> • 
+<a href="https://www.youtube.com/@deshideveloper93">
+  YouTube
+</a>
+
+📩 Email: contact.josimhawladar@gmail.com  
+🌍 Portfolio: https://josim-hawladar.vercel.app  
+
+---
+
+## ⚡ Current Focus
+
+- TypeScript + Next.js Advanced Patterns  
+- Backend Architecture (Express + Prisma)  
+- Building real-world SaaS projects  
+- Freelance + Remote Job opportunities  
+
+---
+
+⭐ If you like my work, feel free to follow and connect!
+
+
 ### 👋 Who is Josim Hawladar?
 Josim Hawladar is a Front End Developer and Computer Science student, passionate about building scalable web applications and sharing knowledge with the tech community. Alongside my academic journey, I actively mentor students as a programming club mentor at my campus, believing that true mastery comes from teaching and collaboration.
 
